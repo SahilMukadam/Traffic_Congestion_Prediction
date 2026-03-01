@@ -1,5 +1,5 @@
 
-# Traffic Congestion Management Using AI and Digital Twin Technology
+# Traffic Congestion Prediction Using AI and Digital Twin Technology
 
 ## Overview
 
