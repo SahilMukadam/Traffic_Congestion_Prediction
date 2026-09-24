@@ -7,12 +7,12 @@ This system provides a cost-effective, globally portable solution for real-time 
 
 ### Key Features
 
--   **Global Portability** — Configure any geographic area via bounding box coordinates
--   **Junction-Level Granularity** — Spatial clustering of traffic signals
--   **Real-Time Detection** — Congestion Factor (CF) computation from free-flow vs. in-traffic ETAs
--   **Short-Horizon Prediction** — Gradient Boosting model for +5 minute forecasts
--   **Digital Twin Integration** — SUMO-based simulation for visualisation and what-if testing
--   **API Efficiency** — Pairwise sampling with pruning reduces API calls by ~98%
+-   **Global Portability** - Configure any geographic area via bounding box coordinates
+-   **Junction-Level Granularity** - Spatial clustering of traffic signals
+-   **Real-Time Detection** - Congestion Factor (CF) computation from free-flow vs. in-traffic ETAs
+-   **Short-Horizon Prediction** - Gradient Boosting model for +5 minute forecasts
+-   **Digital Twin Integration** - SUMO-based simulation for visualisation and what-if testing
+-   **API Efficiency** - Pairwise sampling with pruning reduces API calls by ~98%
 
 ----------
 
